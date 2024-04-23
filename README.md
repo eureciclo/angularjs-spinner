@@ -2,10 +2,19 @@
 
 Angular directive to show an animated spinner (using [spin.js](http://fgnass.github.io/spin.js/))
 
-Copyright (C) 2013, 2014, 2015, 2016, Uri Shaked <uri@urish.org>.
+---
 
-[![Build Status](https://travis-ci.org/urish/angular-spinner.png?branch=master)](https://travis-ci.org/urish/angular-spinner)
-[![Coverage Status](https://coveralls.io/repos/urish/angular-spinner/badge.png)](https://coveralls.io/r/urish/angular-spinner)
+**Note 1:** fork created in order to prevent another outage such as when the
+[original repository](https://github.com/Attrash-Islam/bower-angular-spinner)
+(by author Islam A.) was deleted sometime between April and November of 2023.
+Contributions were later made by Uri Shaked <uri@urish.org> at
+[this repo](https://github.com/urish/angular-spinner), but it has been archived.
+Bower Registry still points to the deleted, original repository
+(see [here](https://raw.githubusercontent.com/bower/registry/master/db/packages.json), warning: large file).
+
+**Note 2:** `legacy-support` is a branch that will not upgrade into 1.0 as to work with our legacy software.
+
+---
 
 ## Usage
 

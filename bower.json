@@ -1,10 +1,10 @@
 {
 	"name": "angular-spinner",
-	"description": "Angular directive to show an animated spinner (using spin.js)",
+	"description": "AngularJS directive to show an animated spinner (using spin.js)",
 	"main": "./angular-spinner.js",
-	"author": "Uri Shaked",
+	"author": "Islam A., Uri Shaked",
 	"license": "MIT",
-	"homepage": "https://github.com/urish/angular-spinner",
+	"homepage": "https://github.com/eureciclo/angularjs-spinner",
 	"ignore": [
 	],
 	"dependencies": {
@@ -16,6 +16,6 @@
 	},
 	"repository": {
 		"type": "git",
-		"url": "git://github.com/urish/angular-spinner.git"
+		"url": "git://github.com/eureciclo/angularjs-spinner.git"
 	}
 }
